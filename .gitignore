@@ -1,0 +1,25 @@
+# Arquivos gerados pelo compilador
+/target
+**/*.rs.bk
+
+# Arquivos gerados por Cargo
+/Cargo.lock
+
+# Arquivos gerados por Rustfmt
+**/*.rs.bk
+
+# Arquivos gerados por cargão
+/.cargo/
+
+# Arquivos de log
+/logs
+
+# Arquivos .env
+/.env
+
+# Arquivos gerados pelo IntelliJ
+/.idea/
+
+# Arquivos gerados pelo VSCode e IntelliJ
+/.vscode/
+/.idea/
